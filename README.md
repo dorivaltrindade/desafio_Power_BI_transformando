@@ -104,6 +104,6 @@ O processo de melhorias nos dados da base e possíveis correções transcorrerá
 - A eliminação das colunas desnecessária exigiu cautela tendo em vista a possível quebra de sustenção dos relacionamentos entre várias consultas.
 ---
 ---
-O passo a passo das operações realizadas pode ser comprovado, examinando-se o arquivo desafio-projeto-bc-dio-dorival-azure_company.pbix .
+O passo a passo das operações realizadas pode ser comprovado, examinando-se o arquivo [  desafio-projeto-bc-dio-dorival-azure_company.pbix  ].
 
 Arquivo publicado: https://app.powerbi.com/groups/me/datasets/8d3547cf-b6e0-41c4-add5-2cae201f7d4c/details?experience=power-bi
