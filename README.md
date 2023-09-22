@@ -8,7 +8,7 @@
 ## 
 
 - **Criação de uma instância na Azure para banco de dados MySQL**
-> inserir imagem 01 aqui, após o primeiro commit
+[AZURE](https://github.com/dorivaltrindade/desafio_Power_BI_transformando/blob/main/01_instancia_azure.png)
 ---- 
 > inserir imagem 02 aqui, após o primeiro commit
 
