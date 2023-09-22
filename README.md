@@ -28,7 +28,7 @@ Para melhorar a constatação da origem dos dados na nuvem, foi adotado o nome d
 
 Antes da execução dos scripts para criação das tabelas e alimentaçãos dos respectivos dados no MySQL foram corrigidas todas ocorrências da expressão **"departament"** para o Inglês correto, **"department"**. Com relação a consistência dos dados (distintos e exclusivos), conforme a observação da figura a seguir, todos os dados foram aceitos com 0% de erros, 0% vazios e 100% válidos em todas as tabelas importadas.
 
-> inserir imagem 05 aqui, após o primeiro commit
+https://github.com/dorivaltrindade/desafio_Power_BI_transformando/blob/main/05_Qualidade_dos_Dados.png
 
 
 O processo de melhorias nos dados da base e possíveis correções transcorrerá conforme as diretrizes para transformação dos dados na ordem a seguir:
