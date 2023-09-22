@@ -10,7 +10,7 @@
 - **Criação de uma instância na Azure para banco de dados MySQL**
 https://github.com/dorivaltrindade/desafio_Power_BI_transformando/blob/main/01_instancia_azure.png
 ---- 
-> inserir imagem 02 aqui, após o primeiro commit
+https://github.com/dorivaltrindade/desafio_Power_BI_transformando/blob/main/02_instancia_azure_MySQL.png
 
 - **Banco de dados MySQL criado na instância Azure e alimentado conforme os scripts encontrados no seguinte repositório GitHub:**
 
@@ -18,9 +18,9 @@ https://github.com/dorivaltrindade/desafio_Power_BI_transformando/blob/main/01_i
 
 
 - **Integração do Power BI com MySQL na instância Azure**
-> inserir imagem 03 aqui, após o primeiro commit
+https://github.com/dorivaltrindade/desafio_Power_BI_transformando/blob/main/03_Integracao_MySQL_Workbench%20x%20Azure.png
 ----
-> inserir imagem 04 aqui, após o primeiro commit
+https://github.com/dorivaltrindade/desafio_Power_BI_transformando/blob/main/04_Integracaoo_Power_BI%20x%20Azure.png
 - **Qualidade dos dados** (qualidade/distribuição das colunas)
 ---
 ##### (verificação de problemas na base de dados que necessitam da transformação dos dados)
